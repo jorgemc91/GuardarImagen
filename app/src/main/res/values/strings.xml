@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GuardarImagen</string>
+    <string name="url">URL</string>
+    <string name="action_settings">Settings</string>
+    <string name="guardar_como">Guardar como</string>
+    <string name="ext_publica">Externa pública</string>
+    <string name="ext_privada">Externa privada</string>
+    <string name="bt_descargar">Descargar</string>
+
+</resources>
